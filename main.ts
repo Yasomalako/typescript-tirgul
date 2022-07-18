@@ -67,3 +67,8 @@ return console.log(sum);
 }
 getSum(5.3,4.6,8.1)
 //8
+function oddNumbers(oddNumberArray:number):number{
+return console.log(Math.min(oddNumberArray));
+
+}
+oddNumbers([4.5,6.5,8.4,9.2])
